@@ -66,7 +66,7 @@ step8:
 You can clone the project by using below git URL.
   ex:
 
-	git clone https://github.com/GOPINADH96/task-management-app
+	git clone https://github.com/Naveenlakavath/Project.git
 
 
 Link References 
@@ -74,8 +74,7 @@ Link References
 
 GIT URL : 
 
-https://github.com/GOPINADH96/task-management-app
-
+https://github.com/Naveenlakavath/Project.git
 
 Hosted URL: 
 
